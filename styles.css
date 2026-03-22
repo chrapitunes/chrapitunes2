@@ -3,6 +3,7 @@ body{
     background-size: cover;
     background-position: center;
     background-repeat: repeat;
+    height: 100vh;
 }
 .title{
     background-image: url(Imagenes/blancobackground.jpg);
@@ -13,8 +14,12 @@ body{
     margin-left: 44%;
     text-align: center;
     border-radius: 10px;
+    border: solid 2px black;
+    padding-bottom: 40px;
 }
 .titletext{
     font-family: "Oswald", sans-serif;
-    padding-bottom: 2px;
+    padding-bottom: 15px;
 }
+
+
